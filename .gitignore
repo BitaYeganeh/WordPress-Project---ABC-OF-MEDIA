@@ -1,0 +1,32 @@
+# Ignore WordPress core files that are generated automatically
+wp-config.php
+.htaccess
+readme.html
+license.txt
+
+# Ignore heavy backup exports
+wp-content/ai1wm-backups/
+wp-content/uploads/simply-static/temp-files/
+wp-content/uploads/*.zip
+wp-content/uploads/*.wpress
+
+# Ignore cache plugins
+wp-content/cache/
+wp-content/wflogs/
+wp-content/uploads/cache/
+
+# Ignore vendor build outputs
+node_modules/
+dist/
+
+# Ignore Local WP environment
+app/sql/
+sql/
+*.sql.zip
+
+# Ignore environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
