@@ -1,12 +1,18 @@
-# Ignore WordPress core files
-wp-admin/
-wp-includes/
+# Ignore WordPress core files (optional if you only push your theme)
 wp-config.php
 .htaccess
+readme.html
+license.txt
 
-# Ignore logs and OS files
-*.log
+# Ignore backups, caches, uploads you don’t want in repo
+wp-content/ai1wm-backups/
+wp-content/uploads/simply-static/temp-files/
+
+# Ignore Node / npm / build files (if any)
+node_modules/
+dist/
+.env
+
+# Ignore system files
 .DS_Store
-
-# Ignore editor files
-.vscode/
+Thumbs.db
