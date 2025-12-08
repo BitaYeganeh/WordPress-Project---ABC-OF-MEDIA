@@ -1,0 +1,12 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+wp-config.php
+.htaccess
+
+# Ignore logs and OS files
+*.log
+.DS_Store
+
+# Ignore editor files
+.vscode/

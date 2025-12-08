@@ -1,0 +1,372 @@
+
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-500-normal0.woff2') format('woff2');
+							font-weight: 500;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-500-normal1.woff2') format('woff2');
+							font-weight: 500;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-600-normal0.woff2') format('woff2');
+							font-weight: 600;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-600-normal1.woff2') format('woff2');
+							font-weight: 600;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-700-normal0.woff2') format('woff2');
+							font-weight: 700;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'outfit';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Outfit/outfit-700-normal1.woff2') format('woff2');
+							font-weight: 700;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal0.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal1.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal2.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal3.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal4.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal5.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal6.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal7.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100-normal8.woff2') format('woff2');
+							font-weight: 100;
+							font-style: normal8;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic0.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic1.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic2.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic3.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic4.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic5.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic6.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic7.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-100italic-italic8.woff2') format('woff2');
+							font-weight: 100italic;
+							font-style: italic8;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal0.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal1.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal2.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal3.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal4.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal5.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal6.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal7.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300-normal8.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal8;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic0.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic1.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic2.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic3.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic4.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic5.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic6.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic7.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-300italic-italic8.woff2') format('woff2');
+							font-weight: 300italic;
+							font-style: italic8;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal2.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal3.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal4.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal5.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal6.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal7.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('http://abc-of-media.local/wp-content/bcf-fonts/Roboto/roboto-400-normal8.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal8;
+						}
+						
