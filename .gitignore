@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 # Ignore WordPress core files
+=======
+# Ignore WordPress core files that are generated automatically
+>>>>>>> 5a8690b20ad15536bd03ab623c97f29b0cbeed97
 wp-config.php
 .htaccess
 readme.html
 license.txt
 
+<<<<<<< HEAD
 # Ignore backups, caches, temp uploads
 wp-content/ai1wm-backups/
 wp-content/uploads/simply-static/temp-files/
@@ -17,6 +22,29 @@ wp-content/uploads/*.log
 # Node / npm / build files
 node_modules/
 dist/
+=======
+# Ignore heavy backup exports
+wp-content/ai1wm-backups/
+wp-content/uploads/simply-static/temp-files/
+wp-content/uploads/*.zip
+wp-content/uploads/*.wpress
+
+# Ignore cache plugins
+wp-content/cache/
+wp-content/wflogs/
+wp-content/uploads/cache/
+
+# Ignore vendor build outputs
+node_modules/
+dist/
+
+# Ignore Local WP environment
+app/sql/
+sql/
+*.sql.zip
+
+# Ignore environment files
+>>>>>>> 5a8690b20ad15536bd03ab623c97f29b0cbeed97
 .env
 
 # System files
