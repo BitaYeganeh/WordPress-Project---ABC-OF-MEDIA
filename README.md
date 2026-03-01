@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-The ABC Book of Media Literacy is a WordPress-based campaign website developed using PHP and MySQL.
+The ABC Book of Media Literacy is a WordPress-based campaign website developed using PHP.
 
 The website promotes a nationwide Finnish educational initiative providing every ninth grader (ages 14–15) with a physical media literacy primer designed to combat disinformation, misinformation, and hybrid threats in the digital age.
 
@@ -50,13 +50,16 @@ The initiative is led by News Media Finland (NMF) and aims to strengthen democra
 - MySQL
 - HTML5
 - CSS3
-- WP-CLI
 - Local WP (development environment)
 
 ---
-
-
 📸 Screenshots
+![main](/screenshots/main.png)
+![main](/screenshots/2.png)
+![main](/screenshots/3.png)
+![main](/screenshots/4.png)
+![main](/screenshots/5.png)
+![main](/screenshots/6.png)
 
 ----------
    👩‍💻 Author
