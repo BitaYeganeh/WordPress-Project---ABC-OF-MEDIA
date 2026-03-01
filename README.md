@@ -55,14 +55,6 @@ The initiative is led by News Media Finland (NMF) and aims to strengthen democra
 
 ---
 
-## ⚙ Installation (Local Development)
-
-To run the project locally:
-
-1. Install Local WP / XAMPP / MAMP
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
 
 📸 Screenshots
 
