@@ -1,6 +1,10 @@
 # THE ABC BOOK OF MEDIA LITERACY  
 ### A New Primer for Every 9th Grader in Finland
 
+**🔗 Live site:** [bitayeganeh.github.io/WordPress-Project---ABC-OF-MEDIA](https://bitayeganeh.github.io/WordPress-Project---ABC-OF-MEDIA/)
+
+![Home page](screenshots/main.png)
+
 ## 📌 Project Overview
 
 The ABC Book of Media Literacy is a WordPress-based campaign website developed using PHP.
@@ -53,14 +57,26 @@ The initiative is led by News Media Finland (NMF) and aims to strengthen democra
 - Local WP (development environment)
 
 ---
-📸 Screenshots
-![main](/screenshots/main.png)
-![main](/screenshots/2.png)
-![main](/screenshots/3.png)
-![main](/screenshots/4.png)
-![main](/screenshots/5.png)
-![main](/screenshots/6.png)
 
-----------
-   👩‍💻 Author
-Bita Yeganeh
+## 📸 Screenshots
+
+### Introduction: "Learn to read. Again."
+![Introduction section with the book and project text](screenshots/2.png)
+
+### Quote from News Media Finland
+![Quote section from the News Media Finland project manager](screenshots/3.png)
+
+### A–Z letter gallery and downloadable press materials
+![Gallery of illustrated letters A to Z and the Downloadables buttons](screenshots/4.png)
+
+### Downloadables and FAQ
+![Downloadables buttons and the collapsed FAQ list](screenshots/5.png)
+
+### FAQ opened
+![FAQ accordion with two answers opened](screenshots/6.png)
+
+---
+
+## 👩‍💻 Author
+
+**Bita Yeganeh**
